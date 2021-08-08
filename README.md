@@ -1,4 +1,4 @@
-# SPWM-Matlab-App-
+# SPWM Matlab App
 A standalone Matlab app to visualize SPWM waveforms in Matlab Simulink
 
 To open the file 
